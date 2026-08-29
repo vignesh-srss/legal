@@ -1,6 +1,6 @@
 # Privacy Policy for Sounds Like
 
-**Last Updated:** Aug 23, 2026
+**Last Updated:** Aug 29, 2026
 
 SRSS Softwares ("we," "us," or "our") operates the **Sounds Like** mobile application. This app is designed as an educational tool for children to learn sounds from various categories such as animals, birds, and vehicles.
 
